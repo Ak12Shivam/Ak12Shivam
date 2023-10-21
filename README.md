@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak12shivam&show_icons=true&locale=en" alt="ak12shivam" /></p>
 
 
-
+[![An image of @ak12shivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak12shivam)](https://holopin.io/@ak12shivam)
