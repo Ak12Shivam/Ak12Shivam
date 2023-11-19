@@ -26,3 +26,4 @@
 
 
 [![An image of @ak12shivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak12shivam)](https://holopin.io/@ak12shivam)
+ (https://www.cloudskillsboost.google/public_profiles/cbdb5852-8fd5-4189-b364-e6cca29d5eaa)
